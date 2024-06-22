@@ -1,0 +1,7 @@
+connect_resource wave
+read_amplitude
+delay 5
+change_amplitude 4
+read_amplitude
+change_amplitude 3
+read_amplitude

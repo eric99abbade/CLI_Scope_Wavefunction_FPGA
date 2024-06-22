@@ -1,0 +1,11 @@
+connect_resource wave
+change_output_on
+change_amplitude 2
+connect_resource scope
+use_trigger_mode
+delay 5
+disconnect
+connect_resource wave
+change_amplitude 3
+connect_resource scope
+use_trigger_mode

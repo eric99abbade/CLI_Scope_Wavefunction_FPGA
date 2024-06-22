@@ -1,0 +1,3 @@
+connect_resource 4 testvector_controller
+generate_testvector
+plot_testvector

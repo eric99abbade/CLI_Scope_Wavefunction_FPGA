@@ -1,0 +1,6 @@
+connect_resource scope
+read_voltage_threshold_trigger
+change_voltage_threshold_trigger 1.52
+read_voltage_threshold_trigger
+change_voltage_threshold_trigger 1.48
+read_voltage_threshold_trigger
