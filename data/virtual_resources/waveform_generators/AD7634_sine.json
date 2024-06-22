@@ -1,0 +1,14 @@
+{
+    "vpp_voltage": 100,
+    "threshold_voltage": 26,
+    "voltage_offset": 0,
+    "bits_resolution": 14,
+    "signed": true,
+    "fractional_repr": 0,
+    "number_inputs": 1,
+    "number_samples": 1000,
+    "sampling_period": 2e-07,
+    "wave_type": "sine",
+    "frequency": 150000000.0,
+    "symmetric_threshold": true
+}

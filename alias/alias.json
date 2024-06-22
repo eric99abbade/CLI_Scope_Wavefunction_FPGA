@@ -1,0 +1,22 @@
+[
+    {
+        "alias": "121a",
+        "controller_name": "scope_controller",
+        "resource_id": "koqwd"
+    },
+    {
+        "alias": "oi",
+        "controller_name": "scope_controller",
+        "resource_id": "test"
+    },
+    {
+        "alias": "scope",
+        "controller_name": "scope_controller",
+        "resource_id": "USB0::1689::888::c010837::0::INSTR"
+    },
+    {
+        "alias": "wave",
+        "controller_name": "waveform_controller",
+        "resource_id": "USB0::2391::9479::MY57100781::0::INSTR"
+    }
+]

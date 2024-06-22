@@ -1,0 +1,20 @@
+{
+    "vpp_voltage": 2.0,
+    "threshold_voltage": 2.5125,
+    "voltage_offset": 5.0,
+    "bits_resolution": 8,
+    "rounding_places_configurations": 12,
+    "signed": true,
+    "fractional_repr": 3,
+    "number_inputs": 1,
+    "number_samples": 1000,
+    "sampling_period": 1e-07,
+    "wave_type": "sine",
+    "frequency": 100000000.0,
+    "symmetry": 0.5,
+    "duty_cycle": 0.8,
+    "pulse_width": 1e-10,
+    "lead_edge": 1e-11,
+    "trail_edge": 1e-11,
+    "symmetric_threshold": true
+}

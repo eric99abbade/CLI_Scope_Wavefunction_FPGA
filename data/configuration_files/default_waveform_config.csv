@@ -1,0 +1,7 @@
+name,value
+standard_channel,1
+rounding_places,3
+rounding_places_configurations,12
+rounding_places_pulse_width,10
+rounding_places_pulse_edges,10 
+standard_timeout,10
